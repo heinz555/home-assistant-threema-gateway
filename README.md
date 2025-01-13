@@ -6,6 +6,7 @@ I'm trying to set up a home assistant Threema gateway because I haven't found an
 Your help is greatly appreciated to bring this to life. It's also my first Github project.
 
 Example Configuration in configuration.yaml
+
 threema_gateway:
   gateway_id: "YOUR_GATEWAY_ID"
   secret: "YOUR_SECRET"
