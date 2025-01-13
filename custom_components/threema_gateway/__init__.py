@@ -1,6 +1,6 @@
 from homeassistant.core import HomeAssistant
 
-DOMAIN = "threema_gateway"
+DOMAIN = "home-assistant-threema-gateway"
 
 async def async_setup(hass: HomeAssistant, config: dict):
     """Set up the Threema Gateway integration."""
