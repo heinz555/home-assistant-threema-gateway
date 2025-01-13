@@ -1,0 +1,11 @@
+   ```json
+     {
+       "name": "Threema Gateway",
+       "description": "A custom integration to send and receive Threema messages.",
+       "domain": "threema_gateway",
+       "codeowners": ["@heinz555"],
+       "requirements": [],
+       "documentation": "https://github.com/heinz555/home-assistant-threema-gateway",
+       "version": "0.0.1"
+     }
+     ```
