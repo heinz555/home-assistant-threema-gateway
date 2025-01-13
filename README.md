@@ -22,7 +22,7 @@ This custom integration allows you to send and receive messages using Threema Ga
 ### Using [HACS](https://hacs.xyz/)
 1. Go to **HACS > Integrations**.
 2. Click the three dots in the top-right corner, then select **Custom repositories**.
-3. Add this repository URL: `https://github.com/your-username/home-assistant-threema-gateway` and set the category to **Integration**.
+3. Add this repository URL: `https://github.com/heinz555/home-assistant-threema-gateway` and set the category to **Integration**.
 4. Search for "Threema Gateway" in HACS and install it.
 
 ### Manual Installation
