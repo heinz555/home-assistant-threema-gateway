@@ -1,9 +1,0 @@
-{
-  "domain": "threema_gateway",
-  "name": "Threema Gateway",
-  "version": "1.0.0",
-  "documentation": "https://github.com/your-repo/home-assistant-threema",
-  "dependencies": [],
-  "codeowners": ["@your-github-username"],
-  "requirements": ["pycryptodome", "requests"]
-}
